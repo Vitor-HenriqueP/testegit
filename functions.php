@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <script src="/script/script.js"></script>
+    <br>
+    <hr>
     <? echo "<div><h1> hello </h1> </div>"?>
 </body>
 </html>
